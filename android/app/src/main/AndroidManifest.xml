@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.heart_to_heart">
+    package="com.yaash.heart_to_heart">
 
     <!-- Permissions -->
     <uses-permission android:name="android.permission.INTERNET" />

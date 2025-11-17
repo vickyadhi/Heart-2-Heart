@@ -19,7 +19,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.heart_to_heart"
+    namespace = "com.yaash.heart_to_heart"
     compileSdk = 36 // This is correct
     buildToolsVersion = "34.0.0"
 
@@ -37,7 +37,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.heart_to_heart"
+        applicationId = "com.yaash.heart_to_heart"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

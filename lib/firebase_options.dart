@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyDinsrPVwsMHKmW-D7b3GjifcuDHkGYHSM',
-    appId: '1:544545782245:android:6f320ae8a540fd0e10d70c',
+    appId: '1:544545782245:android:d485b8a098a54b6310d70c',
     messagingSenderId: '544545782245',
     projectId: 'heart-to-heart-e98f6',
     storageBucket: 'heart-to-heart-e98f6.firebasestorage.app',
@@ -66,11 +66,12 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAKhZytQc05X44pE6cb6tPuCuUjf5kVfyE',
-    appId: '1:544545782245:ios:1ed2aa40ef783d6f10d70c',
+    appId: '1:544545782245:ios:7ee2695a7005b91010d70c',
     messagingSenderId: '544545782245',
     projectId: 'heart-to-heart-e98f6',
     storageBucket: 'heart-to-heart-e98f6.firebasestorage.app',
-    iosClientId: '544545782245-ljreeiql8oam5e33cg8nl9gjcp4qpo1l.apps.googleusercontent.com',
-    iosBundleId: 'com.example.heartToHeart',
+    androidClientId: '544545782245-f077rvltjmm149utgqt8n52h893602g2.apps.googleusercontent.com',
+    iosClientId: '544545782245-m7nuekjipnvv804i8l5ng2ohqgmdhd8j.apps.googleusercontent.com',
+    iosBundleId: 'com.yaash.heartToHeart',
   );
 }

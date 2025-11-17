@@ -14,6 +14,74 @@
       },
       "oauth_client": [
         {
+          "client_id": "544545782245-f077rvltjmm149utgqt8n52h893602g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heart_to_heart",
+            "certificate_hash": "111a641c1ed2235431c850987f5c8558d78854a9"
+          }
+        },
+        {
+          "client_id": "544545782245-gkkvm4l55fuhg8f76kp66f6h76rleop6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heart_to_heart",
+            "certificate_hash": "d6b9119f163561153d5cdc90e84909e1d0e845ce"
+          }
+        },
+        {
+          "client_id": "544545782245-kd8g9bm6gjohosn0heecbkjomg226its.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heart_to_heart",
+            "certificate_hash": "48ca053b2f135fdeea099ea23a57b7f5e561d56a"
+          }
+        },
+        {
+          "client_id": "544545782245-n7j1cpu67a4tlc6modk1ohe169u19lde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heart_to_heart",
+            "certificate_hash": "92cc1923230f92b0321572606f62ce7cf4c623ce"
+          }
+        },
+        {
+          "client_id": "544545782245-dq8h3ftf0helirpkmlqm4dsbrtngr83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinsrPVwsMHKmW-D7b3GjifcuDHkGYHSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544545782245-dq8h3ftf0helirpkmlqm4dsbrtngr83c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544545782245-ljreeiql8oam5e33cg8nl9gjcp4qpo1l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartToHeart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544545782245:android:d485b8a098a54b6310d70c",
+        "android_client_info": {
+          "package_name": "com.yaash.heart_to_heart"
+        }
+      },
+      "oauth_client": [
+        {
           "client_id": "544545782245-dq8h3ftf0helirpkmlqm4dsbrtngr83c.apps.googleusercontent.com",
           "client_type": 3
         }
